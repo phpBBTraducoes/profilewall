@@ -23,13 +23,13 @@ $lang = array_merge($lang, array(
 	'PROFILEWALL_NOTICE'	        => '<div class="phpinfo"><p>A Configuração para esta extensão está em <strong>%1$s » %2$s » %3$s</strong>.<br/>Certifique-se de definir as tarefas de permissão. <strong>Permissões &#187; Tarefas de Permissão</strong> e ambos <strong>"Tarefas do moderador"</strong> e <strong>"Tarefas do usuário"</strong></p></div>',
 	
 	
-	'ACL_U_PROFILE_WALL_VIEW'			=> 'Pode ver comentários de perfil',
-	'ACL_U_PROFILE_WALL_EDIT'			=> 'Pode editar comentários de perfil',
-	'ACL_U_PROFILE_WALL_POST'			=> 'Pode postar comentários de perfil',
-	'ACL_U_PROFILE_WALL_LIKE'			=> 'Pode curtir comentários de perfil',
+	'ACL_U_PROFILE_WALL_VIEW'			=> 'Pode ver os comentários no perfil',
+	'ACL_U_PROFILE_WALL_EDIT'			=> 'Pode editar os comentários no perfil',
+	'ACL_U_PROFILE_WALL_POST'			=> 'Pode postar os comentários no perfil',
+	'ACL_U_PROFILE_WALL_LIKE'			=> 'Pode curtir os comentários no perfil',
 
-	'ACL_M_PROFILE_WALL_EDIT'			=> 'Pode editar comentários de perfil',
-    'ACL_M_PROFILE_WALL_SOFT_DEL'		=> 'Pode soft delete comentários de perfil',
-	'ACL_M_PROFILE_WALL_VIEW_SOFT_DEL'	=> 'Pode ver comentários de perfil soft delete',
+	'ACL_M_PROFILE_WALL_EDIT'			=> 'Pode editar os comentários no perfil',
+    'ACL_M_PROFILE_WALL_SOFT_DEL'		=> 'Pode soft delete os comentários no perfil',
+	'ACL_M_PROFILE_WALL_VIEW_SOFT_DEL'	=> 'Pode ver os comentários no perfil soft delete',
 
 ));

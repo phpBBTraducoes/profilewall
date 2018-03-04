@@ -19,16 +19,16 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'PROFILE_COMMENT'						=> array(
-		1	=> '%1s comentário de perfil',
-		2	=> '%1s comentários de perfil'
+		1	=> '%1s comentário no perfil',
+		2	=> '%1s comentários no perfil'
 	),
 	'PROFILE_REPLIES'						=> array(
-		1	=> '%1s resposta de perfil',
-		2	=> '%1s respostas de perfil'
+		1	=> '%1s resposta no perfil',
+		2	=> '%1s respostas no perfil'
 	),
 	
-	'PROFILE_VIEW_COMMENT'					=> 'Comentários de perfil',
-	'PROFILE_VIEW_REPLY'				    => 'Respostas de perfil',
+	'PROFILE_VIEW_COMMENT'					=> 'Comentários no perfil',
+	'PROFILE_VIEW_REPLY'				    => 'Respostas no perfil',
 	'PROFILE_WALL'							=> 'Mural do perfil',
 	'POST_COMMENT'							=> 'Novo comentário',
 	'POST_REPLY'							=> 'Postar resposta',
