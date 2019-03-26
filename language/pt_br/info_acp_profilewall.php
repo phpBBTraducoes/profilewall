@@ -4,7 +4,7 @@
 * Profile Wall
 * @copyright (c) 2015 SiteSplat All rights reserved
 * @license Proprietary
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2018 [ver 1.2.1] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid [2018][ver 1.2.1] (https://github.com/phpBBTraducoes)
 */
 
 if (!defined('IN_PHPBB'))
@@ -29,7 +29,7 @@ $lang = array_merge($lang, array(
 	'ACL_U_PROFILE_WALL_LIKE'			=> 'Pode curtir os comentários no perfil',
 
 	'ACL_M_PROFILE_WALL_EDIT'			=> 'Pode editar os comentários no perfil',
-    'ACL_M_PROFILE_WALL_SOFT_DEL'		=> 'Pode soft delete os comentários no perfil',
-	'ACL_M_PROFILE_WALL_VIEW_SOFT_DEL'	=> 'Pode ver os comentários no perfil soft delete',
+    'ACL_M_PROFILE_WALL_SOFT_DEL'		=> 'Pode excluir os comentários no perfil',
+	'ACL_M_PROFILE_WALL_VIEW_SOFT_DEL'	=> 'Pode ver os comentários excluidos do perfil',
 
 ));

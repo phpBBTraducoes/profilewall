@@ -4,7 +4,7 @@
 * Profile Wall
 * @copyright (c) 2015 SiteSplat All rights reserved
 * @license Proprietary
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2018 [ver 1.2.1] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid [2018][ver 1.2.1] (https://github.com/phpBBTraducoes)
 */
 
 if (!defined('IN_PHPBB'))
